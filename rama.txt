@@ -1,2 +1,6 @@
-Rama MASTER
+﻿Rama MASTER
+
 Escrito desde rama MASTER, debería darme conflicto al hacer el merge
+=======
+Esto lo escribo desde la rama2
+
