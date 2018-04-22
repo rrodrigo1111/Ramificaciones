@@ -3,4 +3,5 @@
 Escrito desde rama MASTER, debería darme conflicto al hacer el merge
 =======
 Esto lo escribo desde la rama2
+Escribo desde rama MASTER pero voy a hacer un commit con la opción de new branch
 
